@@ -1,3 +1,4 @@
+
 class HangpersonGame
 
   # add the necessary class methods, attributes, etc. here
